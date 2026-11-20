@@ -1,0 +1,7 @@
+{
+  "network": "localhost",
+  "admin": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+  "ecoToken": "0x09120eAED8e4cD86D85a616680151DAA653880F2",
+  "ecoCertificate": "0x3E661784267F128e5f706De17Fac1Fc1c9d56f30",
+  "energyAuditSystem": "0x6732128F9cc0c4344b2d4DC6285BCd516b7E59E6"
+}
